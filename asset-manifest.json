@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/meLlamoPetro/static/css/main.c0b4875a.css",
-    "main.js": "/meLlamoPetro/static/js/main.3fc4e52d.js",
+    "main.css": "/meLlamoPetro/static/css/main.2e23df9d.css",
+    "main.js": "/meLlamoPetro/static/js/main.ed9b2c23.js",
     "static/js/787.29d6d5e2.chunk.js": "/meLlamoPetro/static/js/787.29d6d5e2.chunk.js",
     "index.html": "/meLlamoPetro/index.html",
-    "main.c0b4875a.css.map": "/meLlamoPetro/static/css/main.c0b4875a.css.map",
-    "main.3fc4e52d.js.map": "/meLlamoPetro/static/js/main.3fc4e52d.js.map",
+    "main.2e23df9d.css.map": "/meLlamoPetro/static/css/main.2e23df9d.css.map",
+    "main.ed9b2c23.js.map": "/meLlamoPetro/static/js/main.ed9b2c23.js.map",
     "787.29d6d5e2.chunk.js.map": "/meLlamoPetro/static/js/787.29d6d5e2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c0b4875a.css",
-    "static/js/main.3fc4e52d.js"
+    "static/css/main.2e23df9d.css",
+    "static/js/main.ed9b2c23.js"
   ]
 }

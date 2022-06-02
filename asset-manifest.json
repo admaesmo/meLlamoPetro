@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/meLlamoPetro/static/css/main.db3d9afb.css",
-    "main.js": "/meLlamoPetro/static/js/main.6e13edce.js",
+    "main.js": "/meLlamoPetro/static/js/main.8c8d1d10.js",
     "static/js/787.29d6d5e2.chunk.js": "/meLlamoPetro/static/js/787.29d6d5e2.chunk.js",
     "index.html": "/meLlamoPetro/index.html",
     "main.db3d9afb.css.map": "/meLlamoPetro/static/css/main.db3d9afb.css.map",
-    "main.6e13edce.js.map": "/meLlamoPetro/static/js/main.6e13edce.js.map",
+    "main.8c8d1d10.js.map": "/meLlamoPetro/static/js/main.8c8d1d10.js.map",
     "787.29d6d5e2.chunk.js.map": "/meLlamoPetro/static/js/787.29d6d5e2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.db3d9afb.css",
-    "static/js/main.6e13edce.js"
+    "static/js/main.8c8d1d10.js"
   ]
 }
